@@ -5,6 +5,10 @@ import java.util.Optional;
 
 import com.platzi.market.domain.Product;
 
+/**
+ * @author García Rodríguez Luis
+ *
+ */
 public interface ProductRepository {
 //	En este repositorio solo se ponen los nombres de los métodos
 //	que queremos que cualquier repositorio que trabaje con productos
