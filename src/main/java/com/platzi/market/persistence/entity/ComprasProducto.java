@@ -52,4 +52,32 @@ public class ComprasProducto {
     public void setEstado(Boolean estado) {
         this.estado = estado;
     }
+
+	/**
+	 * @return the compra
+	 */
+	public Compra getCompra() {
+		return compra;
+	}
+
+	/**
+	 * @param compra the compra to set
+	 */
+	public void setCompra(Compra compra) {
+		this.compra = compra;
+	}
+
+	/**
+	 * @return the producto
+	 */
+	public Producto getProducto() {
+		return producto;
+	}
+
+	/**
+	 * @param producto the producto to set
+	 */
+	public void setProducto(Producto producto) {
+		this.producto = producto;
+	}
 }

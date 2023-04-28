@@ -80,5 +80,33 @@ public class Compra {
 	public void setEstado(String estado) {
 		this.estado = estado;
 	}
+
+	/**
+	 * @return the cliente
+	 */
+	public Cliente getCliente() {
+		return cliente;
+	}
+
+	/**
+	 * @param cliente the cliente to set
+	 */
+	public void setCliente(Cliente cliente) {
+		this.cliente = cliente;
+	}
+
+	/**
+	 * @return the productos
+	 */
+	public List<ComprasProducto> getProductos() {
+		return productos;
+	}
+
+	/**
+	 * @param productos the productos to set
+	 */
+	public void setProductos(List<ComprasProducto> productos) {
+		this.productos = productos;
+	}
 	
 }
