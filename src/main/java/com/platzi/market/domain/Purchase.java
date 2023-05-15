@@ -93,7 +93,7 @@ public class Purchase {
 	/**
 	 * @param item the item to set
 	 */
-	public void setItem(List<PurchaseItem> items) {
+	public void setItems(List<PurchaseItem> items) {
 		this.items = items;
 	} 
 }
