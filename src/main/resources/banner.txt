@@ -1,0 +1,7 @@
+${Ansi.GREEN},--.     ,--.    ,--.     ,--.     _      ,--,  ,--. _____     _    
+${Ansi.GREEN}|   `   |    |  |        |        | |    |   | |       |      | |     
+${Ansi.GREEN}|    |  |    |  |        |  _    |___|   |  '  |       |     |___|    
+${Ansi.GREEN}|   ,   |    |  |        |   |  |     |  | '_  |       |    |     |   
+${Ansi.GREEN}`--'     `--'    `--'     `--' !       ! |   |  `--' __|__ !       !  
+
+${Ansi.RED} :: Spring Boot ::        (v${spring-boot.version})                    ${spring.application.name}
